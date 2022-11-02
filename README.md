@@ -1,12 +1,5 @@
-# README
-## Curt Anderson
+# Repository for testing git
 
-hello world
-hello again
-hello
-another line
-another!
-one more line
-xxxxxx
-in main
-another line for halloween
+Hello, welcome.
+
+Invokation: homework.sh parking_csv_file
