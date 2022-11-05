@@ -16,7 +16,7 @@ My solution to the first assignment is contained in `homework.sh`. This script d
 To invoke `homework.sh', do the following: 
 
 ```
-homework.sh *parking_csv_file*
+homework.sh parking_csv_file
 ```
 
 ## Contact
