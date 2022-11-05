@@ -6,9 +6,18 @@ This is a repository for testing git in the DSI Foundations of Data Science work
 
 ## Usage
 
-homework.sh reads in a file (parking_csv_file), outputs all the types of infractions in the file, finds the mean, min, and max fine, and then spits out the "FAIL PARK/STP NEAR RIGHT LIMIT" infractions in the file. 
+My solution to the first assignment is contained in `homework.sh`. This script does three things:
 
-Invokation: homework.sh parking_csv_file
+- it reads a specified CSV file from the Toronto's Open Data Portal
+- it prints the unique types of infractions found in the file to the standard output
+- it calculates the mean, minimum, and maximum fine in that file and prints it to the standard output
+- it finds all infractions of type "FAIL PARK/STP NEAR RIGHT LIMIT", extracts the infraction description, the fine amount, and the location of the fine, and stores those in infractions.csv
+
+To invoke `homework.sh', do the following: 
+
+```
+homework.sh *parking_csv_file*
+```
 
 ## Contact
 
