@@ -21,4 +21,4 @@ homework.sh parking_csv_file
 
 ## Contact
 
-For help, please email [Curt Anderson](mainto:curt.anderson@utoronto.ca).
+For help, please email [Curt Anderson](mailto:curt.anderson@utoronto.ca).
