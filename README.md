@@ -13,7 +13,7 @@ My solution to the first assignment is contained in `homework.sh`. This script d
 - it calculates the mean, minimum, and maximum fine in that file and prints it to the standard output
 - it finds all infractions of type "FAIL PARK/STP NEAR RIGHT LIMIT", extracts the infraction description, the fine amount, and the location of the fine, and stores those in infractions.csv
 
-To invoke `homework.sh', do the following: 
+To invoke `homework.sh`, do the following: 
 
 ```
 homework.sh parking_csv_file
