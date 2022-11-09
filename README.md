@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a repository for testing git for the DSI Foundations of Data Science workshop. It includes my solution to the first assignment.
+**This** is a repository for testing git for the DSI Foundations of Data Science workshop. It includes my solution to the first assignment.
 
 ## Usage
 
